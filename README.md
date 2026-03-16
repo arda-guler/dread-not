@@ -27,7 +27,8 @@ The game map area is about this large:
 ...so basically, all things considered, this is a weak simulator recreation of a Fortress Gun. BUT, it should give folks an idea about the length scales, time scales and the precision required to aim the cannons.
 
 Plus, there are further simplifications. There is only one cannon on the game map, and only 3 ships at a time. Mine fields are not placed historically, and there is an impenetrable minefield 150 meters ahead of the map origin. 
-Rest of the waters are clear. Currently, the ships do not maneuver or shoot back at all. The cannon reloading is absurdly fast (otherwise it gets boring, even though this is meant to be a recreation).
+Rest of the waters are clear. Currently, the ships do not maneuver or shoot back at all. The cannon reloading is absurdly fast (otherwise it gets boring, even though this is meant to be a recreation). Also keep in mind that
+there is no wind and each shot and shell are perfectly and excellently identical - no manufacturing imperfections and such.
 
 Please understand this is not a naval combat simulator game, but a ballpark order-of-magnitude recreation of a coastal defense cannon.
 
