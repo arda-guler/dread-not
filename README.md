@@ -1,3 +1,4 @@
+# Background
 Ever since I visited Çanakkale many many years ago I always wondered what it would be like to operate one of those fortress guns the Ottomans used as coastal artillery against the combined British-French fleet.
 
 ![Ottoman artillery piece](https://www.navyingallipoli.com/images/Artillery/240_35_rm02.jpg)
@@ -26,6 +27,23 @@ The game map area is about this large:
 ...so basically, all things considered, this is a weak simulator recreation of a Fortress Gun. BUT, it should give folks an idea about the length scales, time scales and the precision required to aim the cannons.
 
 Plus, there are further simplifications. There is only one cannon on the game map, and only 3 ships at a time. Mine fields are not placed historically, and there is an impenetrable minefield 150 meters ahead of the map origin. 
-Rest of the waters are clear. Currently, the ships do not maneuver or shoot back at all.
+Rest of the waters are clear. Currently, the ships do not maneuver or shoot back at all. The cannon reloading is absurdly fast (otherwise it gets boring, even though this is meant to be a recreation).
 
 Please understand this is not a naval combat simulator game, but a ballpark order-of-magnitude recreation of a coastal defense cannon.
+
+# Controls
+WASD to rotate (azimuth and elevation) the cannon
+R/F to increase/decrease amount of propellant charges
+X to fire
+Shift + mouse movement to rotate camera
+Y to switch to cannon camera
+U to switch to ship camera
+O to switch to shell camera (if there is an artillery shell in flight)
+
+<img width="1584" height="545" alt="ships" src="https://github.com/user-attachments/assets/4cb9ed0d-7d88-49ff-b24f-1a05a4fb086d" />
+
+<img width="1100" height="715" alt="cannon" src="https://github.com/user-attachments/assets/dc3ae9a8-5a5f-4316-b3d1-09640bb5475c" />
+
+# Further Work
+
+If you have more in-depth info on the cannons, and especially if you can help model the equipment, terrain, ships etc. or do anything at all to help, all is welcome.
