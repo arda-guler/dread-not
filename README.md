@@ -33,11 +33,17 @@ Please understand this is not a naval combat simulator game, but a ballpark orde
 
 # Controls
 WASD to rotate (azimuth and elevation) the cannon
+
 R/F to increase/decrease amount of propellant charges
+
 X to fire
+
 Shift + mouse movement to rotate camera
+
 Y to switch to cannon camera
+
 U to switch to ship camera
+
 O to switch to shell camera (if there is an artillery shell in flight)
 
 <img width="1584" height="545" alt="ships" src="https://github.com/user-attachments/assets/4cb9ed0d-7d88-49ff-b24f-1a05a4fb086d" />
