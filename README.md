@@ -53,3 +53,15 @@ O to switch to shell camera (if there is an artillery shell in flight)
 # Further Work
 
 If you have more in-depth info on the cannons, and especially if you can help model the equipment, terrain, ships etc. or do anything at all to help, all is welcome.
+
+# Background Music Credits
+
+"Exciting Trailer" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/ 
+
+"Industrial Revolution" Kevin MacLeod (incompetech.com)
+Licensed under Creative Commons: By Attribution 4.0 License
+http://creativecommons.org/licenses/by/4.0/ 
+
+(This is also written in the _music_copyright.txt file).
